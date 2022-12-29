@@ -4,8 +4,8 @@ are a subset of machine learning and are at the heart of deep learning algor
 structure are inspired by the human brain, mimicking the way that biological neurons signal to one another.
 
 ## Basic Structure and Working
-**Structure** -\ 
-ANNs are comprised of a node layers, containing an input layer, one or more hidden layers, and an output layer.\ 
+**Structure** -\
+ANNs are comprised of a node layers, containing an input layer, one or more hidden layers, and an output layer.\
 
 **Working** -\
 Each node, or artificial neuron, connects to another and has an associated weight and threshold. 
