@@ -12,6 +12,6 @@ If the output of any individual node is above the specified threshold value, tha
 sending data to the next layer of the network. Otherwise, no data is passed along to the next layer of the network.
 
 ## How am I going to it ?
-I am going to take ![MNIST database](https://en.wikipedia.org/wiki/MNIST_database/) as inspiration and attempt to make a similiar model that recongnises handwritten digits.\
+I am going to take [MNIST database](https://en.wikipedia.org/wiki/MNIST_database) as inspiration and attempt to make a similiar model that recongnises handwritten digits.\
 Here is an example of sample images of the different ways digits amy be written\
 ![set of digits used for training](./assets/MnistExamples.png)
