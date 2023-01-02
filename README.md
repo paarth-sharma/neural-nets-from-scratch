@@ -22,6 +22,6 @@ Broke the learning model's functions into 3 steps that repeat
 
 - [Backward Propagation](https://en.wikipedia.org/wiki/Backpropagation) 
 
-- [Updating parameters and adjusting errors caused by weights and biases and minimising the loss function](https://en.wikipedia.org/wiki/Gradient_descent)
+- Updating parameters and adjusting errors caused by weights and biases and minimising the loss function using [gradient descent](https://en.wikipedia.org/wiki/Gradient_descent)
 
 
