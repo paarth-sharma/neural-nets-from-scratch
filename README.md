@@ -18,7 +18,7 @@ Here is an example of sample images of the different ways digits amy be written\
 
 # Breakdown of my thought process
 Broke the learning model's functions into 3 steps that repeat
-- [Forward Propagation](https://en.wikipedia.org/wiki/Residual_neural_network#Forward_propagation) using suitable activation functions(https://en.wikipedia.org/wiki/Activation_function) namely [ReLu(x)](https://en.wikipedia.org/wiki/Rectifier_(neural_networks)) for the middle layer and [Softmax(x)](https://en.wikipedia.org/wiki/Softmax_function) for the output layer
+- [Forward Propagation](https://en.wikipedia.org/wiki/Residual_neural_network#Forward_propagation) using suitable [activation functions](https://en.wikipedia.org/wiki/Activation_function) namely [ReLu(x)](https://en.wikipedia.org/wiki/Rectifier_(neural_networks)) for the middle layer and [Softmax(x)](https://en.wikipedia.org/wiki/Softmax_function) for the output layer
 
 - [Backward Propagation](https://en.wikipedia.org/wiki/Backpropagation) 
 
