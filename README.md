@@ -18,9 +18,10 @@ Here is an example of sample images of the different ways digits amy be written\
 
 # Breakdown of my thought process
 Broke the learning model's functions into 3 steps that repeat
-<ol>
-    <li> [Forward Propagation](https://en.wikipedia.org/wiki/Residual_neural_network#Forward_propagation) using suitable activation functions(https://en.wikipedia.org/wiki/Activation_function) namely [ReLu(x)](https://en.wikipedia.org/wiki/Rectifier_(neural_networks)) for the middle layer and [Softmax(x)](https://en.wikipedia.org/wiki/Softmax_function) for the output layer</li>
-    <li> [Backward Propagation](https://en.wikipedia.org/wiki/Backpropagation) </li>
-    <li> [Updating parameters and adjusting errors caused by weights and biases and minimising the loss function](https://en.wikipedia.org/wiki/Gradient_descent)</li>
-</ol>
+- [Forward Propagation](https://en.wikipedia.org/wiki/Residual_neural_network#Forward_propagation) using suitable activation functions(https://en.wikipedia.org/wiki/Activation_function) namely [ReLu(x)](https://en.wikipedia.org/wiki/Rectifier_(neural_networks)) for the middle layer and [Softmax(x)](https://en.wikipedia.org/wiki/Softmax_function) for the output layer
+
+- [Backward Propagation](https://en.wikipedia.org/wiki/Backpropagation) 
+
+- [Updating parameters and adjusting errors caused by weights and biases and minimising the loss function](https://en.wikipedia.org/wiki/Gradient_descent)
+
 
